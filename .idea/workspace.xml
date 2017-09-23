@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35060612-8380-443e-8511-2cf8dc5a6219" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Es6WorkShop/program.js" afterPath="$PROJECT_DIR$/Es6WorkShop/program.js" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,6 +52,7 @@
       <list>
         <option value="$PROJECT_DIR$/electron.js" />
         <option value="$PROJECT_DIR$/program.js" />
+        <option value="$PROJECT_DIR$/Es6WorkShop/program.js" />
       </list>
     </option>
   </component>
@@ -209,12 +210,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506003582512</updated>
       <workItem from="1506003586445" duration="881000" />
-      <workItem from="1506165366314" duration="2531000" />
+      <workItem from="1506165366314" duration="4311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3412000" />
+    <option name="totallyTimeSpent" value="5192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,9 +228,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
