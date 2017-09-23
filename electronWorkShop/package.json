@@ -1,0 +1,28 @@
+{
+  "name": "electron-cat-example",
+  "version": "1.0.0",
+  "description": "test task from nodeSchool elementary-electron workshop contained some rendering function from npm module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darinamandarina/NodeSchoolWorkShop.git"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "js"
+  ],
+  "author": "Darina Pa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darinamandarina/NodeSchoolWorkShop/issues"
+  },
+  "homepage": "https://github.com/darinamandarina/NodeSchoolWorkShop#readme",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}

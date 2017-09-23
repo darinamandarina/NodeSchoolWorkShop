@@ -1,6 +1,5 @@
 /**
- * Created by Darina on 23.09.2017.
- * electron intro task #1
+ * electron intro task
  */
 
 var electron = require('electron');
